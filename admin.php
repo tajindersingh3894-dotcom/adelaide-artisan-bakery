@@ -55,6 +55,7 @@ $result = $conn->query(
         <a href="index.php">Home</a>
         <a href="admin.php">Orders</a>
         <a href="products.php">Products</a>
+        <a href="logout.php">Logout</a>
     </nav>
 
 </header>
